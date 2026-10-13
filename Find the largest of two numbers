@@ -6,4 +6,4 @@ if a > b:
 elif b > a:
     print("Largest number:", b)
 else:
-    print("Both numbers are equal")
+    print("Both numbers are equal.")
